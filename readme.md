@@ -69,3 +69,5 @@ A design célja a természetesség és a belső egyensúly érzésének közvet�
 **Összefoglalás**
 
 A LégzésPont stúdió weboldala harmonikusan ötvözi a technikai funkcionalitást és a vizuális igényességet.
+
+**Készítette:** Lipták Nóra, Tóth Tímea
