@@ -8,12 +8,20 @@ A nyitóoldal célja, hogy azonnal megragadja a látogató figyelmét és egyér
 
 **Navigáció és szerkezet**
 
-Az oldal egyszerű, logikus menürendszert kapott, amely segíti a látogatót a gyors tájékozódásban. A főmenüpontok:
+Az oldal egyszerű, logikus menürendszert kapott, amely segíti a látogatót a gyors tájékozódásban. 
+
+A főmenüpontok:
+
 •	Stúdió – a stúdió bemutatása
+
 •	Óratípusok – választható órák leírása, jellemzői
+
 •	Oktatók – az oktatók rövid bemutatkozása
+
 •	Árak – szolgáltatások, ajánlatok
+
 •	Órarend – folyamatosan frissülő heti beosztás
+
 •	Kapcsolat – elérhetőségek, térkép, üzenetküldő űrlap
 
 **Technikai háttér**
@@ -25,7 +33,9 @@ A weboldal “v2lab” domain néven és annak egyik aloldalán (tamogato1) fut.
 **Kiemelt funkciók**
 
 • Kapcsolatfelvételi és jelentkezési űrlap automatikus e-mail értesítéssel
+
 • Google Maps integráció a könnyű megtalálhatóságért
+
 • Közösségi média linkek és megosztás gombok
 
 **Összegzés**
@@ -39,31 +49,45 @@ A LégzésPont stúdió új weboldala egy reszponzív, esztétikus és funkcion�
 **Arculat és vizuális megjelenés**
 
 A design célja a természetesség és a belső egyensúly érzésének közvetítése volt. A weboldal színpalettája nyugodt, földközeli árnyalatokból áll:
+
 • Háttérszín: szürke és fehér színátmenet
+
 • Kiemelőszínek: élénk levélzöld (#00FD2D), fekete, fehér 
+
 • Tipográfiai elemek: sötétszürke és fekete
+
 • Címsorok: Georgia
+
 • Törzsszöveg: Open Sans, Georgia
 
 **Felhasznált eszközök**
 
 • Wordpress, Elementor és Hestia sablon - a könnyed és gyors kezelés elérése érdekében
+
 • Canva, Recraft – képek, grafikai elemek szerkesztése (pl. logó)
+
 • Messenger – a gyors kommunikációért felelős
+
 •Microsoft Copilot, ChatGPT – kép generáláshoz szükséges eszközök
+
 • Facebook – a social media integrációhoz használt alkalmazás
 
 **Funkciók és integrációk**
 
 • Kapcsolatfelvételi űrlap
+
 • Google Maps térkép
+
 • Social media linkek
 
 **Jövőbeli bővíthetőség**
 
 • Online bérletvásárlás
+
 • Hírlevél-feliratkozás
+
 • Többnyelvűség
+
 • Események kezelése
 
 **Összefoglalás**
